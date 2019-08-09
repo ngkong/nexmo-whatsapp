@@ -1,0 +1,6 @@
+{
+    "nexmo_url": "http://nexmoapac.hopto.me/sandbox/whatsapp.php",
+    "whatsapp_from": "123",
+    "priv_key_path": "key/private.key",
+    "nexmo_app_id": "abcdef"
+}
